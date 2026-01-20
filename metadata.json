@@ -1,0 +1,5 @@
+{
+  "name": "E-Wallet Dashboard",
+  "description": "A modern, secure, and clean user interface for a digital E-Wallet application, featuring a balance overview, quick actions like QR payment, and a recent transaction history. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
